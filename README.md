@@ -1,7 +1,7 @@
 # Nomis_AutoLoan
 Help eCar transition to a data analytics based pricing strategy that allows them to maximize profits by 1) increasing the number of loan applicants that accept an autolone offer once offered, 2) identifying the maximum loan interest rate that could be offered to customers.
 
-<p align="center"> <img src="https://github.com/JidapaTH/Nomis_AutoLoan/blob/master/struc.JPG"  width="80%" height="80%" ></p>
+<p align="center"> <img src="https://github.com/JidapaTH/Nomis_AutoLoan/blob/master/struc.JPG"  width="60%" height="60%" ></p>
 <p align="center"> Final Model </p>
 
 <br /> <br /> 
